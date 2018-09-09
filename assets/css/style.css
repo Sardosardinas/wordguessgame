@@ -1,0 +1,33 @@
+body{
+    background-image: url("../images/watercolor-1.jpg") !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px ;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
+
+h2{
+    text-align: center;
+    padding: 30px;
+    
+}
+
+#title{
+    font-family: 'Homemade Apple', cursive;
+    font-size: 100px;
+    padding: 20px;
+    color:#660099;
+
+}
+
+#instructions{
+    color: #ff0033;
+}
